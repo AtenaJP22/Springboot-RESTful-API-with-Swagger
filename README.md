@@ -34,13 +34,13 @@ This project is a simple layered **Spring Boot REST API** for managing customer 
    git clone https://github.com/your-username/Springboot_RESTful_API_with_Swagger.git
    cd Springboot_RESTful_API_with_Swagger
    ```
-	2.	Build and run:
+1. **Build and Run**:
 
 mvn clean install
 mvn spring-boot:run
 
 
-	3.	Access Swagger UI:
+1. **Access Swagger UI**:
  ```
 http://localhost:8081/swagger-ui.html
  ```
