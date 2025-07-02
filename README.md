@@ -35,10 +35,10 @@ This project is a simple layered **Spring Boot REST API** for managing customer 
    cd Springboot_RESTful_API_with_Swagger
    ```
 1. **Build and Run**:
-
+```bash
 mvn clean install
 mvn spring-boot:run
-
+```
 
 1. **Access Swagger UI**:
  ```
