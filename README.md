@@ -52,18 +52,6 @@ http://localhost:8081/swagger-ui.html
   "email": "john.doe@example.com"
 }
 
-
-⸻
-
-📂 Project Structure
-
-src/main/java/com/example/customerapi/
-├── controller/         # Handles HTTP requests (CustomerController)
-├── service/            # Business logic (CustomerService)
-├── dto/                # Data transfer object (CustomerDTO)
-└── CustomerApiApplication.java
-
-
 ⸻
 
 📸 Screenshots
